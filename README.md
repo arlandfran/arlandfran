@@ -7,4 +7,4 @@
 ⚙️ I build with: `.html`, `.css`, `.js`, `.ts`, `.py`, `.sql`, `.fig`;<br>
 🔍 Currently learning: **AWS**, **Azure**, **Web application architecture**;<br>
  <br>
-Looking for an eager junior dev to join your team? Let's connect!
+Looking for an eager junior dev to join your team? Let's [connect](mailto:arland.torres@outlook.com?subject=Hello!)!
